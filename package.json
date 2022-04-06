@@ -1,0 +1,23 @@
+{
+  "name": "3dnest-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichaozhy/3dnest-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lichaozhy/3dnest-proxy/issues"
+  },
+  "homepage": "https://github.com/lichaozhy/3dnest-proxy#readme",
+  "dependencies": {
+    "@lemonce3/mitm": "^0.8.1"
+  }
+}
